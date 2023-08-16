@@ -1,9 +1,8 @@
  👋 Hi, I'm Theo Renaud
 ====================================
-- 👨‍🎓 Actually computer student in Clermont-Ferrand
-- 💻 In research for an intership
+- 💻 In research for a job
 - 👀 I’m interested in object langage and web langage (backend)
-- 📕 I’m currently learning JavaScript / Kotlin / Docker / NoSQL / Ruby
+- 📕 I’m currently learning Lua
 - 📫 You can contact me here: theorenaud99@gmail.com
 
 <!---
